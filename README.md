@@ -278,8 +278,8 @@ monetizable tools for the Pakistani market.
 |---|---|
 | 🛍️ ABD Wears — fashion e-commerce store | [Live demo](https://abdulrehmanraza03.github.io/ABD-Wears-Weabsite/#/) |
 | 🍕 FFC Pizza Restaurant — restaurant site | [Live demo](https://abdulrehmanraza03.github.io/FFC_Pizza_Restaurent/) |
-| 🛠️ MY Website | [Live demo](https://replit-tool--theabdulservice.replit.app/#collections) |
-| 🎥 My Own Screen Recorder Web App | [Live demo](https://abd-screen-recorder-web-app.streamlit.app/) |
+| 🛠️ Service automation tool | [Live demo](https://replit-tool--theabdulservice.replit.app/#collections) |
+| 🎥 Screen Recorder Web App | [Live demo](https://abd-screen-recorder-web-app.streamlit.app/) |
 | 📊 Customer Churn Prediction — ML/Data Science project | [Live demo](https://customer-churn-prediction-analytics-5syak8uuar5rp4f8ihphvs.streamlit.app/) |
 
 ---
